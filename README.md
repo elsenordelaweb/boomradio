@@ -1,2 +1,2 @@
-# boomradio
-BOOM RADIO - EXPLOTANDO TUS SENTIDOS!!!
+# BOOM RADIO - EXPLOTANDO TUS SENTIDOS!!!
+Boom Radio es una estación radial con transmisión por Internet que nace con el objetivo de complacer musicalmente todos los segmentos de oyentes. Nuestra finalidad es obtener un crecimiento nacional e internacional. Hemos diseñado una programación destinada a cubrir todos los segmentos de nuestros oyentes, trabajando arduamente en un repertorio variado y ordenado para generar de esta manera un sentido de pertenencia en nuestros oyentes y de esta manera poder llegar a tener una programación diaria con segmentos diferenciados durante las 24 horas del día.
